@@ -11,7 +11,7 @@ class FontAdjuster(QWidget):
         super().__init__()
         self.setWindowTitle("Font Size and Color Adjuster")
         self.setFixedSize(600, 400)
-        self.setStyleSheet("background-color: #2c2c2c; color: white;")
+        self.setStyleSheet("background-color: #2c2c2c; color: #ffffff;")
 
         # untuk bagian NIM
         self.label_nim = QLabel("F1D022082")
@@ -52,7 +52,7 @@ class FontAdjuster(QWidget):
         # untuk identitas
         self.label_info = QLabel("Nabila Nur Syfani (F1D022082)")
         self.label_info.setAlignment(Qt.AlignCenter)
-        self.label_info.setStyleSheet("color: white;")
+        self.label_info.setStyleSheet("color: #ffffff;")
 
         # layout
         main_layout = QVBoxLayout()
