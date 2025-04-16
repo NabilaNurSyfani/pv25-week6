@@ -50,7 +50,7 @@ class FontAdjuster(QWidget):
         self.font_slider.valueChanged.connect(self.font_color)
 
         # untuk identitas
-        self.label_info = QLabel("Nama: Nabila  |  NIM: F1D022082")
+        self.label_info = QLabel("Nabila Nur Syfani (F1D022082)")
         self.label_info.setAlignment(Qt.AlignCenter)
         self.label_info.setStyleSheet("color: white;")
 
