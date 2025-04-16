@@ -23,11 +23,11 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="5.png" width="400"/><br>
+      <img src="6.png" width="400"/><br>
       <b>Font Color</b>
     </td>
     <td align="center">
-      <img src="6.png" width="400"/><br>
+      <img src="5.png" width="400"/><br>
       <b>Font Color</b>
     </td>
   </tr>
